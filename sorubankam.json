@@ -6,5 +6,9 @@
 {
 "soru_metni":"Dünya muz biçimindedir.",
 "soru_cevabi":false
+},
+{
+"soru_metni":"Bir ay 30 gündür",
+"soru_cevabi":true
 }
 ]
