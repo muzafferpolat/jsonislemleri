@@ -10,5 +10,9 @@
 {
 "soru_metni":"Bir ay 30 gündür",
 "soru_cevabi":true
+},
+{
+"soru_metni":"Damlaya damlaya göl olur",
+"soru_cevabi":true
 }
 ]
